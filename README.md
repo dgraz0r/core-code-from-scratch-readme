@@ -91,17 +91,20 @@ Asegurarse de tener los siguientes ingredientes:
 1. Preguntar que volumen se quiere calcular (piramide, cubo, esfera)
 
   A. CASO PIRAMIDE:
+  
     * Solicitar area de la base
     * Solicitar altura
     * Aplicar formula: Vp = 1/3 area base *  altura
     * Imprimir Vp
    
    B. CASO CUBO:
+   
      * Solicitar altura del cubo
      * Aplicar formula: Vc = (altura del cubo)^3
      * Imprimir Vc
      
    C. CASO ESFERA:
+   
      * Solicitar radio de la esfera
      * Aplicar formula: Ve = 4/3 * pi * ((radio de la esfera)^3)
      * Imprimir Ve
