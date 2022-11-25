@@ -128,7 +128,7 @@ Asegurarse de tener los siguientes ingredientes:
        * "Ninguno de los cofres tiene el tesoro" sin embargo, como es mentira sabemos que al menos un cofre tiene un tesoro.
        
     C. COFRE 3:
-       * "Solo un cofre tiene tesoro" sin embargo, como es mentira sabemos que mas de un tesoro tiene tesoro.
+       * "Solo un cofre tiene tesoro" sin embargo, como es mentira sabemos que mas de un cofre tiene tesoro.
        
  3. Conclusion: A y C tienen tesoro.
  4. FIN   
