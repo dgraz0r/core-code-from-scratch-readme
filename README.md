@@ -89,6 +89,7 @@ Asegurarse de tener los siguientes ingredientes:
 # SOME GEOMETRY
 
 1. Preguntar que volumen se quiere calcular (piramide, cubo, esfera)
+
   A. CASO PIRAMIDE:
     * Solicitar area de la base
     * Solicitar altura
