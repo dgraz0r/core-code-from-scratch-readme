@@ -3,8 +3,8 @@
 # INDICE
 
 1. [ALGORITMO PIZZA](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#algoritmo-pizza) 
-2. [HOT N COLD](https://github.com/dgraz0r/core-code-from-scratch-readme/main/README.md#hot-n-cold)
-3. [SOME GEOMETRY](https://github.com/dgraz0r/core-code-from-scratch-readme/main/README.md#some-geometry)
+2. [HOT N COLD](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#hot-n-cold)
+3. [SOME GEOMETRY](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#some-geometry)
 
 --------------------------------------------------
 
