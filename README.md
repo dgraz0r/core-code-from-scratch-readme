@@ -5,6 +5,9 @@
 1. [ALGORITMO PIZZA](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#algoritmo-pizza) 
 2. [HOT N COLD](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#hot-n-cold)
 3. [SOME GEOMETRY](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#some-geometry)
+4. [NUMBERS](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#numbers)
+5. [DOB](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#dob)
+6. [FIND THE TREASURE](https://github.com/dgraz0r/core-code-from-scratch-readme/blob/main/README.md#find-the-treasure)
 
 --------------------------------------------------
 
@@ -87,6 +90,45 @@ Asegurarse de tener los siguientes ingredientes:
 
 1.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# NUMBERS
+
+ 1. Introducir numero
+ 2. Guardar numero en variable X
+ 3. Dividir el numero en la variable X dentro de 2
+ 4. Almacerna el resultado de la divison en variable Y
+ 5. Validar:
+    * Si numero en variable Y es un numero entero y distinto de cero imprimir "Es numero PAR"
+    * Si numero en variable Y no es un numero entero o es cero imprimir "Es numero IMPAR"
+ 6. FIN
+
+![image](https://user-images.githubusercontent.com/117783981/203881876-772f43aa-97cd-4b03-9913-37396a03258d.png)
+
+
+# DOB
+
+ 1. Requerir fecha de nacimiento
+ 2. Almacenar año fecha de nacimiento en variable "DOB"
+ 3. Calcular la fecha actual
+ 4. Almacenar año fecha actual en variable "TODAY"
+ 5. Realizar resta "TODAY" - "DOB" y almacenar en variable X
+ 6. Imprimir edad
+ 7. FIN
+
+# FIND THE TREASURE
+
+ 1. Escoger por cual proposicion iniciar
+ 2. Analizar los siguientes casos:
+    
+    A. COFRE 1:
+       * "El cofre de enmedio tiene el tesoro" sin embargo, como es mentira el cofre 2 no tiene tesoro.
+    B. COFRE 2:
+       * "Ninguno de los cofres tiene el tesoro" sin embargo, como es mentira sabemos que al menos un cofre tiene un tesoro.
+    C. COFRE 3:
+       * "Solo un cofre tiene tesoro" sin embargo, como es mentira sabemos que mas de un tesoro tiene tesoro.
+ 3. Conclusion: A y C tienen tesoro.
+ 4. FIN   
 
 
 
