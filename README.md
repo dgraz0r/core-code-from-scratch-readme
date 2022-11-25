@@ -1,5 +1,13 @@
 # core-code-from-scratch-readme
 
+# INDICE
+
+1. [ALGORITMO PIZZA](ALGORITMO PIZZA) 
+2. [HOT N COLD]
+3. [SOME GEOMETRY]
+
+--------------------------------------------------
+
 # ALGORITMO PIZZA
 
 ## INGREDIENTES
@@ -60,6 +68,31 @@ Asegurarse de tener los siguientes ingredientes:
   1. Colocar la bandeja de metal con la pizza dentro del horno
   2. Dejar hornear la pizza durante 20 minutos
   3. Retirar la pizza
+
+# HOT N COLD
+
+ 1. Solicitar Temperatura
+ 2. Validar si temperatura esta en grados Celsius o Farenheit.
+ 3. Si la temperatura esta en en grados Celsius usar la siguiente formula:
+     * Almacenar la temperatura como variable C
+     * F = (C * 9/5) + 32
+     * Presentar resultado en pantalla
+ 4. Si la temperatura esta en en grados Farenheit usar la siguiente formula:
+     * Almacenar la temperatura como variable F
+     * C = 5/9 * (F-32)
+     * Presentar resultado en pantalla
+ 5. FIN
+
+# SOME GEOMETRY
+
+1.
+
+
+
+
+
+
+
   
   
   
